@@ -38353,7 +38353,6 @@ datetime,events,tier,actual,consensus,previous,forecast,IND_MACRO,IND_Tier1,IND_
 2026-02-20 19:00:00+05:30,Core PCE Price Index YoYDEC,1,,0.028999999999999998,0.027999999999999997,0.027999999999999997,1,1,0,0,0,0
 2026-02-20 19:00:00+05:30,Core PCE Prices QoQ AdvQ4,1,,0.026000000000000002,0.028999999999999998,0.027000000000000003,1,1,0,0,0,0
 2026-02-20 20:15:00+05:30,S&P Global Composite PMI FlashFEB,2,52.3,,53.0,52.6,1,0,1,0,0,0
-2026-02-20 20:15:00+05:30,Fed Bostic Speech,4,,,,,0,0,0,0,1,1
 2026-02-20 20:15:00+05:30,S&P Global Services PMI FlashFEB,2,52.3,53.0,52.7,52.5,1,0,1,0,0,0
 2026-02-20 20:15:00+05:30,S&P Global Manufacturing PMI FlashFEB,2,51.2,52.6,52.4,51.8,1,0,1,0,0,0
 2026-02-20 20:15:00+05:30,S&P Global Services PMI FlashFEB,2,,53.0,52.7,52.5,1,0,1,0,0,0
@@ -38380,8 +38379,6 @@ datetime,events,tier,actual,consensus,previous,forecast,IND_MACRO,IND_Tier1,IND_
 2026-02-20 20:30:00+05:30,Michigan 5 Year Inflation Expectations FinalFEB,4,0.033,0.034,0.033,0.034,0,0,0,0,0,1
 2026-02-20 20:30:00+05:30,New Home Sales MoMNOV,4,0.155,,-0.08800000000000001,-0.037000000000000005,0,0,0,0,0,1
 2026-02-20 20:30:00+05:30,Michigan Consumer Sentiment FinalFEB,4,56.6,57.3,56.4,57.3,0,0,0,0,0,1
-2026-02-20 23:30:00+05:30,Baker Hughes Total Rigs CountFEB/20,4,,,551.0,,0,0,0,0,0,1
-2026-02-20 23:30:00+05:30,Baker Hughes Oil Rig CountFEB/20,4,,,409.0,,0,0,0,0,0,1
 2026-02-20 23:30:00+05:30,Building Permits MoM FinalDEC,4,,,-0.016,0.043,0,0,0,0,0,1
 2026-02-20 23:30:00+05:30,Building Permits FinalDEC,4,,1448000.0,1388000.0,1448000.0,0,0,0,0,0,1
 2026-02-20 23:30:00+05:30,CB Leading Index MoMJAN,4,,,,-0.001,0,0,0,0,0,1
@@ -38391,79 +38388,41 @@ datetime,events,tier,actual,consensus,previous,forecast,IND_MACRO,IND_Tier1,IND_
 2026-02-20 23:30:00+05:30,Baker Hughes Oil Rig CountFEB/20,4,,,409.0,,0,0,0,0,0,1
 2026-02-20 23:30:00+05:30,Baker Hughes Total Rigs CountFEB/20,4,,,551.0,,0,0,0,0,0,1
 2026-02-21 02:00:00+05:30,Fed Musalem Speech,4,,,,,0,0,0,0,1,1
-2026-02-21 02:00:00+05:30,Fed Musalem Speech,4,,,,,0,0,0,0,1,1
-2026-02-23 18:30:00+05:30,Fed Waller Speech,4,,,,,0,0,0,0,1,1
 2026-02-23 18:30:00+05:30,Fed Waller Speech,4,,,,,0,0,0,0,1,1
 2026-02-23 19:00:00+05:30,Chicago Fed National Activity IndexJAN,4,,,,0.3,0,0,0,0,0,1
 2026-02-23 19:00:00+05:30,Chicago Fed National Activity IndexDEC,4,,,-0.04,0.1,0,0,0,0,0,1
-2026-02-23 19:00:00+05:30,Chicago Fed National Activity IndexJAN,4,,,,0.3,0,0,0,0,0,1
-2026-02-23 19:00:00+05:30,Chicago Fed National Activity IndexDEC,4,,,-0.04,0.1,0,0,0,0,0,1
-2026-02-23 20:30:00+05:30,Factory Orders MoMDEC,4,,0.011000000000000001,0.027000000000000003,0.009000000000000001,0,0,0,0,0,1
-2026-02-23 20:30:00+05:30,Factory Orders ex TransportationDEC,4,,,0.002,0.001,0,0,0,0,0,1
 2026-02-23 20:30:00+05:30,Factory Orders MoMDEC,4,,,0.027000000000000003,-0.015,0,0,0,0,0,1
 2026-02-23 20:30:00+05:30,Factory Orders ex TransportationDEC,4,,,0.002,0.001,0,0,0,0,0,1
 2026-02-23 21:00:00+05:30,Dallas Fed Manufacturing IndexFEB,4,,,-1.2,-3.5,0,0,0,0,0,1
-2026-02-23 21:00:00+05:30,Dallas Fed Manufacturing IndexFEB,4,,,-1.2,-3.5,0,0,0,0,0,1
-2026-02-23 22:00:00+05:30,6-Month Bill Auction,2,,,0.035,,1,0,1,0,0,0
 2026-02-23 22:00:00+05:30,6-Month Bill Auction,2,,,0.035,,1,0,1,0,0,0
 2026-02-23 22:00:00+05:30,3-Month Bill Auction,2,,,0.036000000000000004,,1,0,1,0,0,0
-2026-02-23 22:00:00+05:30,3-Month Bill Auction,2,,,0.036000000000000004,,1,0,1,0,0,0
-2026-02-24 18:30:00+05:30,Fed Golsbee Speech,4,,,,,0,0,0,0,1,1
 2026-02-24 18:30:00+05:30,Fed Golsbee Speech,4,,,,,0,0,0,0,1,1
 2026-02-24 18:45:00+05:30,ADP Employment Change Weekly,2,,,10250.0,,1,0,1,0,0,0
-2026-02-24 18:45:00+05:30,ADP Employment Change Weekly,2,,,10250.0,,1,0,1,0,0,0
 2026-02-24 19:25:00+05:30,Redbook YoYFEB/21,4,,,0.07200000000000001,,0,0,0,0,0,1
-2026-02-24 19:25:00+05:30,Redbook YoYFEB/21,4,,,0.07200000000000001,,0,0,0,0,0,1
-2026-02-24 19:30:00+05:30,Fed Bostic Speech,4,,,,,0,0,0,0,1,1
-2026-02-24 19:30:00+05:30,Fed Collins Speech,4,,,,,0,0,0,0,1,1
-2026-02-24 19:30:00+05:30,House Price Index MoMDEC,4,,,0.006,0.01,0,0,0,0,0,1
-2026-02-24 19:30:00+05:30,House Price Index YoYDEC,4,,,0.019,0.018000000000000002,0,0,0,0,0,1
-2026-02-24 19:30:00+05:30,S&P/Case-Shiller Home Price MoMDEC,4,,,0.0,-0.001,0,0,0,0,0,1
-2026-02-24 19:30:00+05:30,S&P/Case-Shiller Home Price YoYDEC,4,,,0.013999999999999999,0.013999999999999999,0,0,0,0,0,1
 2026-02-24 19:30:00+05:30,Fed Collins Speech,4,,,,,0,0,0,0,1,1
 2026-02-24 19:30:00+05:30,Fed Bostic Speech,4,,,,,0,0,0,0,1,1
-2026-02-24 19:30:00+05:30,House Price IndexDEC,4,,,439.3,443.6,0,0,0,0,0,1
 2026-02-24 19:30:00+05:30,S&P/Case-Shiller Home Price MoMDEC,4,,,0.0,-0.001,0,0,0,0,0,1
 2026-02-24 19:30:00+05:30,House Price Index YoYDEC,4,,,0.019,0.018000000000000002,0,0,0,0,0,1
 2026-02-24 19:30:00+05:30,House Price Index MoMDEC,4,,0.003,0.006,0.004,0,0,0,0,0,1
 2026-02-24 19:30:00+05:30,House Price IndexDEC,4,,,439.3,443.6,0,0,0,0,0,1
 2026-02-24 19:30:00+05:30,S&P/Case-Shiller Home Price YoYDEC,4,,0.015,0.013999999999999999,0.013999999999999999,0,0,0,0,0,1
 2026-02-24 19:45:00+05:30,Fed Waller Speech,4,,,,,0,0,0,0,1,1
-2026-02-24 19:45:00+05:30,Fed Waller Speech,4,,,,,0,0,0,0,1,1
 2026-02-24 20:00:00+05:30,Fed Cook Speech,4,,,,,0,0,0,0,1,1
-2026-02-24 20:00:00+05:30,Fed Cook Speech,4,,,,,0,0,0,0,1,1
-2026-02-24 20:30:00+05:30,CB Consumer ConfidenceFEB,3,,86.0,84.5,85.0,1,0,0,1,0,0
-2026-02-24 20:30:00+05:30,Richmond Fed Manufacturing IndexFEB,4,,-4.0,-6.0,-8.0,0,0,0,0,0,1
-2026-02-24 20:30:00+05:30,Wholesale Inventories MoMDEC,4,,0.002,0.002,0.001,0,0,0,0,0,1
-2026-02-24 20:30:00+05:30,Richmond Fed Services Revenues IndexFEB,4,,,-3.0,,0,0,0,0,0,1
-2026-02-24 20:30:00+05:30,Richmond Fed Manufacturing Shipments IndexFEB,4,,,-5.0,-6.0,0,0,0,0,0,1
 2026-02-24 20:30:00+05:30,Richmond Fed Services Revenues IndexFEB,4,,,-3.0,,0,0,0,0,0,1
 2026-02-24 20:30:00+05:30,Wholesale Inventories MoMDEC,4,,0.002,0.002,0.001,0,0,0,0,0,1
 2026-02-24 20:30:00+05:30,CB Consumer ConfidenceFEB,3,,86.0,84.5,85.0,1,0,0,1,0,0
 2026-02-24 20:30:00+05:30,Richmond Fed Manufacturing Shipments IndexFEB,4,,,-5.0,-6.0,0,0,0,0,0,1
 2026-02-24 20:30:00+05:30,Richmond Fed Manufacturing IndexFEB,4,,,-6.0,-8.0,0,0,0,0,0,1
 2026-02-24 21:00:00+05:30,Dallas Fed Services IndexFEB,4,,,2.7,1.6,0,0,0,0,0,1
-2026-02-24 21:00:00+05:30,Dallas Fed Services IndexFEB,4,,,2.7,1.6,0,0,0,0,0,1
-2026-02-24 21:00:00+05:30,Dallas Fed Services Revenues IndexFEB,4,,,7.8,6.0,0,0,0,0,0,1
 2026-02-24 21:00:00+05:30,Dallas Fed Services Revenues IndexFEB,4,,,7.8,6.0,0,0,0,0,0,1
 2026-02-24 23:30:00+05:30,Money SupplyJAN,4,,,22400000000000.0,,0,0,0,0,0,1
-2026-02-24 23:30:00+05:30,Money SupplyJAN,4,,,22400000000000.0,,0,0,0,0,0,1
-2026-02-24 23:30:00+05:30,2-Year Note Auction,2,,,0.0358,,1,0,1,0,0,0
 2026-02-24 23:30:00+05:30,2-Year Note Auction,2,,,0.0358,,1,0,1,0,0,0
 2026-02-25 01:45:00+05:30,Fed Barkin Speech,4,,,,,0,0,0,0,1,1
 2026-02-25 01:45:00+05:30,Fed Collins Speech,4,,,,,0,0,0,0,1,1
-2026-02-25 01:45:00+05:30,Fed Barkin Speech,4,,,,,0,0,0,0,1,1
-2026-02-25 01:45:00+05:30,Fed Collins Speech,4,,,,,0,0,0,0,1,1
-2026-02-25 03:00:00+05:30,API Crude Oil Stock ChangeFEB/20,4,,,-609000.0,,0,0,0,0,0,1
 2026-02-25 03:00:00+05:30,API Crude Oil Stock ChangeFEB/20,4,,,-609000.0,,0,0,0,0,0,1
 2026-02-25 17:30:00+05:30,Building Permits FinalDEC,4,,,,,0,0,0,0,0,1
-2026-02-25 17:30:00+05:30,MBA Mortgage ApplicationsFEB/20,4,,,0.027999999999999997,,0,0,0,0,0,1
-2026-02-25 17:30:00+05:30,MBA 30-Year Mortgage RateFEB/20,4,,,0.0617,,0,0,0,0,0,1
 2026-02-25 17:30:00+05:30,Building Permits MoM FinalDEC,4,,,,,0,0,0,0,0,1
 2026-02-25 17:30:00+05:30,Building Permits FinalNOV,4,,,,1310000.0,0,0,0,0,0,1
-2026-02-25 17:30:00+05:30,MBA Mortgage Market IndexFEB/20,4,,,339.0,,0,0,0,0,0,1
-2026-02-25 17:30:00+05:30,MBA Mortgage Refinance IndexFEB/20,4,,,1375.9,,0,0,0,0,0,1
-2026-02-25 17:30:00+05:30,MBA Purchase IndexFEB/20,4,,,157.1,,0,0,0,0,0,1
 2026-02-25 17:30:00+05:30,MBA Mortgage Refinance IndexFEB/20,4,,,1375.9,,0,0,0,0,0,1
 2026-02-25 17:30:00+05:30,MBA Mortgage Market IndexFEB/20,4,,,339.0,,0,0,0,0,0,1
 2026-02-25 17:30:00+05:30,Building Permits MoM FinalNOV,4,,,,-0.028999999999999998,0,0,0,0,0,1
@@ -38471,78 +38430,44 @@ datetime,events,tier,actual,consensus,previous,forecast,IND_MACRO,IND_Tier1,IND_
 2026-02-25 17:30:00+05:30,MBA Mortgage ApplicationsFEB/20,4,,,0.027999999999999997,,0,0,0,0,0,1
 2026-02-25 17:30:00+05:30,MBA Purchase IndexFEB/20,4,,,157.1,,0,0,0,0,0,1
 2026-02-25 20:05:00+05:30,Fed Barkin Speech,4,,,,,0,0,0,0,1,1
-2026-02-25 20:05:00+05:30,Fed Barkin Speech,4,,,,,0,0,0,0,1,1
-2026-02-25 21:00:00+05:30,EIA Crude Oil Stocks ChangeFEB/20,4,,,-9014000.0,,0,0,0,0,0,1
 2026-02-25 21:00:00+05:30,Building Permits FinalNOV,4,,,,1310000.0,0,0,0,0,0,1
-2026-02-25 21:00:00+05:30,EIA Gasoline Stocks ChangeFEB/20,4,,,-3213000.0,,0,0,0,0,0,1
 2026-02-25 21:00:00+05:30,Building Permits MoM FinalDEC,4,,,,,0,0,0,0,0,1
 2026-02-25 21:00:00+05:30,Building Permits MoM FinalNOV,4,,,,-0.028999999999999998,0,0,0,0,0,1
 2026-02-25 21:00:00+05:30,EIA Gasoline Stocks ChangeFEB/20,4,,,-3213000.0,,0,0,0,0,0,1
 2026-02-25 21:00:00+05:30,Building Permits FinalDEC,4,,,,,0,0,0,0,0,1
 2026-02-25 21:00:00+05:30,EIA Crude Oil Imports ChangeFEB/20,4,,,-1132000.0,,0,0,0,0,0,1
-2026-02-25 21:00:00+05:30,EIA Heating Oil Stocks ChangeFEB/20,4,,,362000.0,,0,0,0,0,0,1
-2026-02-25 21:00:00+05:30,EIA Cushing Crude Oil Stocks ChangeFEB/20,4,,,-1095000.0,,0,0,0,0,0,1
-2026-02-25 21:00:00+05:30,EIA Distillate Stocks ChangeFEB/20,4,,,-4566000.0,,0,0,0,0,0,1
-2026-02-25 21:00:00+05:30,EIA Distillate Fuel Production ChangeFEB/20,4,,,28000.0,,0,0,0,0,0,1
-2026-02-25 21:00:00+05:30,EIA Refinery Crude Runs ChangeFEB/20,4,,,77000.0,,0,0,0,0,0,1
-2026-02-25 21:00:00+05:30,EIA Crude Oil Imports ChangeFEB/20,4,,,-1132000.0,,0,0,0,0,0,1
 2026-02-25 21:00:00+05:30,EIA Crude Oil Stocks ChangeFEB/20,4,,,-9014000.0,,0,0,0,0,0,1
 2026-02-25 21:00:00+05:30,EIA Cushing Crude Oil Stocks ChangeFEB/20,4,,,-1095000.0,,0,0,0,0,0,1
 2026-02-25 21:00:00+05:30,EIA Distillate Fuel Production ChangeFEB/20,4,,,28000.0,,0,0,0,0,0,1
 2026-02-25 21:00:00+05:30,EIA Distillate Stocks ChangeFEB/20,4,,,-4566000.0,,0,0,0,0,0,1
-2026-02-25 21:00:00+05:30,EIA Gasoline Production ChangeFEB/20,4,,,290000.0,,0,0,0,0,0,1
 2026-02-25 21:00:00+05:30,EIA Heating Oil Stocks ChangeFEB/20,4,,,362000.0,,0,0,0,0,0,1
 2026-02-25 21:00:00+05:30,EIA Refinery Crude Runs ChangeFEB/20,4,,,77000.0,,0,0,0,0,0,1
 2026-02-25 21:00:00+05:30,EIA Gasoline Production ChangeFEB/20,4,,,290000.0,,0,0,0,0,0,1
-2026-02-25 22:00:00+05:30,17-Week Bill Auction,2,,,0.03595,,1,0,1,0,0,0
 2026-02-25 22:00:00+05:30,17-Week Bill Auction,2,,,0.03595,,1,0,1,0,0,0
 2026-02-25 22:00:00+05:30,Building Permits MoM FinalNOV,4,,,,-0.028999999999999998,0,0,0,0,0,1
 2026-02-25 22:00:00+05:30,Building Permits MoM FinalDEC,4,,,,,0,0,0,0,0,1
 2026-02-25 22:00:00+05:30,Building Permits FinalNOV,4,,,,1310000.0,0,0,0,0,0,1
 2026-02-25 22:00:00+05:30,Building Permits FinalDEC,4,,,,,0,0,0,0,0,1
-2026-02-25 23:30:00+05:30,2-Year FRN Auction,2,,,0.00099,,1,0,1,0,0,0
 2026-02-25 23:30:00+05:30,Building Permits FinalDEC,4,,,,,0,0,0,0,0,1
 2026-02-25 23:30:00+05:30,Building Permits FinalNOV,4,,,,1310000.0,0,0,0,0,0,1
-2026-02-25 23:30:00+05:30,5-Year Note Auction,2,,,0.03823,,1,0,1,0,0,0
 2026-02-25 23:30:00+05:30,Building Permits MoM FinalNOV,4,,,,-0.028999999999999998,0,0,0,0,0,1
 2026-02-25 23:30:00+05:30,2-Year FRN Auction,2,,,0.00099,,1,0,1,0,0,0
 2026-02-25 23:30:00+05:30,5-Year Note Auction,2,,,0.03823,,1,0,1,0,0,0
 2026-02-25 23:30:00+05:30,Building Permits MoM FinalDEC,4,,,,,0,0,0,0,0,1
 2026-02-25 23:50:00+05:30,Fed Musalem Speech,4,,,,,0,0,0,0,1,1
-2026-02-25 23:50:00+05:30,Fed Musalem Speech,4,,,,,0,0,0,0,1,1
 2026-02-26 03:00:00+05:30,Fed Balance SheetFEB/25,4,,,6610000000000.0,,0,0,0,0,0,1
-2026-02-26 03:00:00+05:30,Fed Balance SheetFEB/25,4,,,6610000000000.0,,0,0,0,0,0,1
-2026-02-26 19:00:00+05:30,Continuing Jobless ClaimsFEB/14,4,,,1869000.0,,0,0,0,0,0,1
 2026-02-26 19:00:00+05:30,Continuing Jobless ClaimsFEB/14,4,,,1869000.0,1872000.0,0,0,0,0,0,1
-2026-02-26 19:00:00+05:30,Initial Jobless ClaimsFEB/21,4,,211000.0,206000.0,,0,0,0,0,0,1
 2026-02-26 19:00:00+05:30,Initial Jobless ClaimsFEB/21,4,,211000.0,206000.0,210000.0,0,0,0,0,0,1
-2026-02-26 19:00:00+05:30,Jobless Claims 4-week AverageFEB/21,4,,,219000.0,,0,0,0,0,0,1
 2026-02-26 19:00:00+05:30,Jobless Claims 4-week AverageFEB/21,4,,,219000.0,221000.0,0,0,0,0,0,1
 2026-02-26 20:30:00+05:30,Fed Bowman Speech,4,,,,,0,0,0,0,1,1
-2026-02-26 20:30:00+05:30,Fed Bowman Speech,4,,,,,0,0,0,0,1,1
 2026-02-26 21:00:00+05:30,EIA Natural Gas Stocks ChangeFEB/20,4,,,,,0,0,0,0,0,1
-2026-02-26 21:00:00+05:30,EIA Natural Gas Stocks ChangeFEB/20,4,,,,,0,0,0,0,0,1
-2026-02-26 21:30:00+05:30,Kansas Fed Composite IndexFEB,4,,,0.0,1.0,0,0,0,0,0,1
-2026-02-26 21:30:00+05:30,Kansas Fed Manufacturing IndexFEB,4,,,-2.0,-1.0,0,0,0,0,0,1
 2026-02-26 21:30:00+05:30,Kansas Fed Manufacturing IndexFEB,4,,,-2.0,-1.0,0,0,0,0,0,1
 2026-02-26 21:30:00+05:30,Kansas Fed Composite IndexFEB,4,,,0.0,1.0,0,0,0,0,0,1
 2026-02-26 22:00:00+05:30,4-Week Bill Auction,2,,,0.03625,,1,0,1,0,0,0
-2026-02-26 22:00:00+05:30,4-Week Bill Auction,2,,,0.03625,,1,0,1,0,0,0
 2026-02-26 22:00:00+05:30,8-Week Bill Auction,2,,,0.0363,,1,0,1,0,0,0
-2026-02-26 22:00:00+05:30,8-Week Bill Auction,2,,,0.0363,,1,0,1,0,0,0
-2026-02-26 22:30:00+05:30,15-Year Mortgage RateFEB/26,4,,,0.0535,,0,0,0,0,0,1
-2026-02-26 22:30:00+05:30,30-Year Mortgage RateFEB/26,4,,,0.0601,,0,0,0,0,0,1
 2026-02-26 22:30:00+05:30,30-Year Mortgage RateFEB/26,4,,,0.0601,,0,0,0,0,0,1
 2026-02-26 22:30:00+05:30,15-Year Mortgage RateFEB/26,4,,,0.0535,,0,0,0,0,0,1
 2026-02-26 23:30:00+05:30,7-Year Note Auction,2,,,0.04018,,1,0,1,0,0,0
-2026-02-26 23:30:00+05:30,7-Year Note Auction,2,,,0.04018,,1,0,1,0,0,0
-2026-02-27 19:00:00+05:30,"PPI Ex Food, Energy and Trade YoYJAN",1,,,0.035,0.034,1,1,0,0,0,0
-2026-02-27 19:00:00+05:30,"PPI Ex Food, Energy and Trade MoMJAN",1,,,0.004,0.001,1,1,0,0,0,0
-2026-02-27 19:00:00+05:30,PPIJAN,1,,,151.472,151.9,1,1,0,0,0,0
-2026-02-27 19:00:00+05:30,Core PPI YoYJAN,1,,,0.033,0.033,1,1,0,0,0,0
-2026-02-27 19:00:00+05:30,Core PPI MoMJAN,1,,0.003,0.006999999999999999,0.002,1,1,0,0,0,0
-2026-02-27 19:00:00+05:30,PPI MoMJAN,1,,0.003,0.005,0.003,1,1,0,0,0,0
-2026-02-27 19:00:00+05:30,PPI YoYJAN,1,,,0.03,0.028999999999999998,1,1,0,0,0,0
 2026-02-27 19:00:00+05:30,PPI MoMJAN,1,,0.003,0.005,0.003,1,1,0,0,0,0
 2026-02-27 19:00:00+05:30,PPI YoYJAN,1,,,0.03,0.028999999999999998,1,1,0,0,0,0
 2026-02-27 19:00:00+05:30,"PPI Ex Food, Energy and Trade YoYJAN",1,,,0.035,0.034,1,1,0,0,0,0
@@ -38550,22 +38475,12 @@ datetime,events,tier,actual,consensus,previous,forecast,IND_MACRO,IND_Tier1,IND_
 2026-02-27 19:00:00+05:30,Core PPI YoYJAN,1,,,0.033,0.033,1,1,0,0,0,0
 2026-02-27 19:00:00+05:30,Core PPI MoMJAN,1,,0.003,0.006999999999999999,0.002,1,1,0,0,0,0
 2026-02-27 19:00:00+05:30,"PPI Ex Food, Energy and Trade MoMJAN",1,,,0.004,0.001,1,1,0,0,0,0
-2026-02-27 20:15:00+05:30,Chicago PMIFEB,2,,,54.0,51.0,1,0,1,0,0,0
 2026-02-27 20:15:00+05:30,Chicago PMIFEB,2,,52.6,54.0,51.0,1,0,1,0,0,0
-2026-02-27 20:30:00+05:30,Construction Spending MoMDEC,4,,,,0.002,0,0,0,0,0,1
-2026-02-27 20:30:00+05:30,Construction Spending MoMNOV,4,,,0.005,-0.001,0,0,0,0,0,1
 2026-02-27 20:30:00+05:30,Construction Spending MoMDEC,4,,0.003,,0.002,0,0,0,0,0,1
 2026-02-27 20:30:00+05:30,Construction Spending MoMNOV,4,,,0.005,-0.001,0,0,0,0,0,1
 2026-02-27 23:30:00+05:30,Baker Hughes Oil Rig CountFEB/27,4,,,,,0,0,0,0,0,1
 2026-02-27 23:30:00+05:30,Baker Hughes Total Rigs CountFEB/27,4,,,,,0,0,0,0,0,1
-2026-02-27 23:30:00+05:30,Baker Hughes Oil Rig CountFEB/27,4,,,,,0,0,0,0,0,1
-2026-02-27 23:30:00+05:30,Baker Hughes Total Rigs CountFEB/27,4,,,,,0,0,0,0,0,1
 2026-03-02 20:15:00+05:30,S&P Global Manufacturing PMI FinalFEB,2,,51.2,52.4,51.2,1,0,1,0,0,0
-2026-03-02 20:15:00+05:30,S&P Global Manufacturing PMI FinalFEB,2,,51.2,52.4,51.2,1,0,1,0,0,0
-2026-03-02 20:30:00+05:30,ISM Manufacturing PricesFEB,4,,,59.0,,0,0,0,0,0,1
-2026-03-02 20:30:00+05:30,ISM Manufacturing New OrdersFEB,4,,,57.1,,0,0,0,0,0,1
-2026-03-02 20:30:00+05:30,ISM Manufacturing PMIFEB,2,,,52.6,,1,0,1,0,0,0
-2026-03-02 20:30:00+05:30,ISM Manufacturing EmploymentFEB,4,,,48.1,,0,0,0,0,0,1
 2026-03-02 20:30:00+05:30,ISM Manufacturing EmploymentFEB,4,,,48.1,,0,0,0,0,0,1
 2026-03-02 20:30:00+05:30,ISM Manufacturing PricesFEB,4,,,59.0,,0,0,0,0,0,1
 2026-03-02 20:30:00+05:30,ISM Manufacturing New OrdersFEB,4,,,57.1,,0,0,0,0,0,1
